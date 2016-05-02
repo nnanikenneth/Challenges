@@ -1,2 +1,0 @@
-vowels and consonants
-maintain starting casting of grams i.e. Ae
