@@ -1,0 +1,70 @@
+MORNING....CLASSIFIERS {Characterizing The English Language}
+
+Using the N-Gram model:  1 - 5 gram
+
+Counting the number of possible N-Grams With fixed N
+
+THIS IS CALCULATED USING THE FORMULA:
+
+N   ===> Total Possible N-Gram Count = (26, N) * N! {note that they can also be permuted hence...}
+
+VALUES FOR VARIOUS N:     WITH RECURSE TO THE FOLLOWING ENDPOINT:
+URL ==> "http://www.calculatorsoup.com/calculators/discretemathematics/combinations.php"
+
+{N}        {Total Possible N-Gram Count}
+1          26 (TRIVIAL) {{CARFUL OF THIS CLASSIFICATION} WHAT IS ITS PURPOSE? OF HOW DO WE USE 1-GRAM MODEL?}
+2          650    {CHARACTER PAIRS}
+3          15600  {CHARACTER TRIPLETS}
+4          358,800 {CHARACTER QUINTUPLETS}
+5          7,893,600 {CHARACTER PENTUPLETS}
+....it is obvious it grow's exponentially for reference but we must still compute them for reference.
+
+Of course the Language Identification wont generate all the possible N-Grams for
+each N...
+This serves as a useful filter.....how?
+
+USEFUL OBSERVATIONS:
+
+AN N LENGTH WORD WILL HAVE AT MOST N-GRAMS AND CAN BE CLASSIFIED BASED ON UP TO N-GRAM
+
+"Human languages invariably have some words
+which occur more frequently than others. One of
+the most common ways of expressing this idea
+has become known as Zipf’s Law [6], which we
+can re-state as follows:
+
+LAW:
+{The nth most common word in a human language
+text occurs with a frequency inversely proportional
+to n.}
+
+The implication of this law is that there is
+always a set of words which dominates most of
+the other words of the language in terms of frequency
+of use. This is true both of words in general,
+and of words that are specific to a particular
+subject. Furthermore, there is a smooth continuum
+of dominance from most frequent to least.
+The smooth nature of the frequency curves helps
+us in some ways, because it implies that we do
+not have to worry too much about specific frequency
+thresholds. This same law holds, at least
+approximately, for other aspects of human languages.
+In particular, it is true for the frequency
+of occurrence of N-grams, both as inflection
+forms and as morpheme-like word components
+which carry meaning. (See Figure 1 for an example
+of a Zipfian distribution of N-gram frequencies
+from a technical document.) Zipf’s Law
+implies that classifying documents with N-gram
+frequency statistics will not be very sensitive to
+cutting off the distributions at a particular rank. It
+also implies that if we are comparing documents
+from the same category they should have similar
+N-gram frequency distributions."
+---N-Gram-Based Text Categorization (William B. Cavnar and John M. Trenkle)
+
+SO WHEN BACK NEXT WE WRITE A PROGRAM TO EXTRACT THESE N-GRAMS AND DO THE ACTUAL COUNT TO COMPARE WITH THE EXISTING STATISTICS {RESEARCH}
+USE ARTIFICIAL INTELLIGENCE CLASSIFICATION MODELS LOOKUP GITHUB WHEN BACK {RESEARCH}
+FIND MORE CLASSIFIERS
+WRITE A PROGRAM TO SORT THE VALUES BY WORDSIZE AND KEEP TRACK OF CERTAIN INDEX

@@ -1,0 +1,42 @@
+TOTAL TEXT PARSED: 661687
+
+LEGEND:
+(SIZE)  (COUNTER OF NUMBER OF WORDS OF SIZE)  ==>> (SAMPLE_SHOWING_EXISTENCE)
+
+1 52 ==>> A
+2 1222 ==>> AA
+3 6302 ==>> A's
+4 13870 ==>> AA's
+5 29319 ==>> AAMSI
+6 52747 ==>> A'asia
+7 74137 ==>> AAvTech
+8 89157 ==>> AATech's
+9 91447 ==>> AAvTech's
+10 83523 ==>> Aaronite's
+11 68250 ==>> Aaronitic's
+12 52066 ==>> Aaronsburg's
+13 36982 ==>> Abbottstown's
+14 25207 ==>> Abencerrages's
+15 16107 ==>> Aberdeenshire's
+16 9848 ==>> Acanthocephala's
+17 5542 ==>> Acanthopterygii's
+18 2972 ==>> Actinomycetaceae's
+19 1572 ==>> Achromobacterieae's
+20 711 ==>> Aktiengesellschaft's
+21 349 ==>> Chlamydobacteriales's
+22 152 ==>> Andrianampoinimerina's
+23 68 ==>> Disestablishmentarian's
+24 38 ==>> Aldiborontiphoscophornia
+25 18 ==>> Pseudolamellibranchiata's
+26 3 ==>> Aldiborontiphoscophornia's
+27 5 ==>> electroencephalographically
+28 3 ==>> antidisestablishmentarianism
+29 6 ==>> antidisestablishmentarianisms
+30 2 ==>> floccinaucinihilipilifications
+31 2 ==>> dichlorodiphenyltrichloroethane
+32 1 ==>> dichlorodiphenyltrichloroethanes
+33 1 ==>> dichlorodiphenyltrichloroethane's
+34 2 ==>> diaminopropyltetramethylenediamine
+45 2 ==>> pneumonoultramicroscopicsilicovolcanoconioses
+58 1 ==>> Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+60 1 ==>> Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch's
